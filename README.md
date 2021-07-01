@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Cristhian Torres</h1>
+<h3 align="center">A passionate backend developer from Colombia</h3>
 
-<!--
-**cristhiantr/cristhiantr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at [NUVU as a software developer on the project "ding"](https://www.ding.com)
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://app.circleci.com/projects/project-dashboard/github/cristhiantr/](https://app.circleci.com/projects/project-dashboard/github/cristhiantr/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **what you want about Java backend development**
+
+- 📫 How to reach me **cristhiant_92@hotmail.com**
+
+- 📄 Know about my experiences [Systems Engineer, Specialist in Software Engineering, more than 3 years of design and implement IT solutions experience. Java web development experience (SOAP and REST web services / microservices); JPA framework, Spring Boot, MVC; Hibernate.](Systems Engineer, Specialist in Software Engineering, more than 3 years of design and implement IT solutions experience. Java web development experience (SOAP and REST web services / microservices); JPA framework, Spring Boot, MVC; Hibernate.)
+
+- ⚡ Fun fact **Geek and nerd**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dsecristhiantorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsecristhiantorres" height="30" width="40" /></a>
+<a href="https://instagram.com/cristhian.torres1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cristhian.torres1" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
