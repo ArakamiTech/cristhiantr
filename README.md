@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://app.circleci.com/projects/project-dashboard/github/cristhiantr/](https://app.circleci.com/projects/project-dashboard/github/cristhiantr/)
 
-- 💬 Ask me about **what you want about Java backend development**
+- 💬 Ask me about **what do you want about Java backend development**
 
 - 📫 How to reach me **cristhiant_92@hotmail.com**
 
-- 📄 Know about my experiences [Systems Engineer, Specialist in Software Engineering, more than 3 years of design and implement IT solutions experience. Java web development experience (SOAP and REST web services / microservices); JPA framework, Spring Boot, MVC; Hibernate.](Systems Engineer, Specialist in Software Engineering, more than 3 years of design and implement IT solutions experience. Java web development experience (SOAP and REST web services / microservices); JPA framework, Spring Boot, MVC; Hibernate.)
+- 📄 Know about my experiences: Systems Engineer, Specialist in Software Engineering, more than 3 years of design and implement IT solutions experience. Java web development experience (SOAP and REST web services / microservices); JPA framework, Spring Boot, MVC; Hibernate.
 
 - ⚡ Fun fact **Geek and nerd**
 
