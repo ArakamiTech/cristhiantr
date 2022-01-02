@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristhian Torres</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🔭 I’m currently working at [NUVU as a software developer on the project "ding"](https://www.ding.com)
+- 🔭 I’m currently working at [Algar Tech as a Senior Java developer on the project for "Claro"](https://algartech.com/es/)
 
 - 👨‍💻 All of my projects are available at [https://app.circleci.com/projects/project-dashboard/github/cristhiantr/](https://app.circleci.com/projects/project-dashboard/github/cristhiantr/)
 
