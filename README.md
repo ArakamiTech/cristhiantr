@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cristhian Torres</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
+Know about my experiences: Systems Engineer, Specialist in Software Engineering, more than 3 years of design and implement IT solutions experience. Java web development experience (SOAP and REST web services / microservices); JPA framework, Spring Boot, MVC; Hibernate.
+
 - 🔭 I’m currently working at [Algar Tech as a Senior Java developer on the project for "Claro"](https://algartech.com/es/)
 
 - 👨‍💻 All of my projects are available at [https://app.circleci.com/projects/project-dashboard/github/cristhiantr/](https://github.com/cristhiantr)
@@ -8,8 +10,6 @@
 - 💬 Ask me about **what do you want about Java backend development**
 
 - 📫 How to reach me **cristhiant_92@hotmail.com**
-
-- 📄 Know about my experiences: Systems Engineer, Specialist in Software Engineering, more than 3 years of design and implement IT solutions experience. Java web development experience (SOAP and REST web services / microservices); JPA framework, Spring Boot, MVC; Hibernate.
 
 - ⚡ Fun fact **Geek and nerd**
 
