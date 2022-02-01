@@ -5,7 +5,7 @@ Know about my experiences: Systems Engineer, Specialist in Software Engineering,
 
 - 🔭 I’m currently working at [Algar Tech as a Senior Java developer on the project for "Claro"](https://algartech.com/es/)
 
-- 👨‍💻 All of my projects are available at [https://app.circleci.com/projects/project-dashboard/github/cristhiantr/](https://github.com/cristhiantr)
+- 👨‍💻 All of my projects are available at [https://app.circleci.com/projects/project-dashboard/github/cristhiantr/repositories](https://github.com/cristhiantr?tab=repositories)
 
 - 💬 Ask me about **what do you want about Java backend development**
 
